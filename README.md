@@ -1,2 +1,2 @@
 # Composition
-Composition Notes
+Initial Composition Notebooks
